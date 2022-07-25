@@ -12,6 +12,10 @@ Finally, user can roll this capture digital object onto the physical world, have
 ## Protype Video
 // TBD: video 
 
+[Demo 1](https://user-images.githubusercontent.com/693098/180850099-5c289d0b-a472-4a81-a542-2c84df9f4cd4.mov)
+
+[Demo 2](https://user-images.githubusercontent.com/693098/180850352-941b672b-40d2-4184-89dd-f5f779dc6128.mov)
+
 
 
 # Timeline & Process
