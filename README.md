@@ -46,10 +46,17 @@ Finally, user can roll this capture digital object onto the physical world, have
         1. ARKit player, XCode tool chian setup
         2. 
 5. Design & Develop
-    1. iteration & user test #1 - **2.5 hr**
-    2. iteration & user test #2 - **1 hr**
-        1. Add little animation - 
-            1. install 2D sprite package to edit animated sprite
+    1. iteration & user test 1 (**2.5 hr**)
+    * AR Dev in Unity
+    * Get user feedback quickly by working prototype
+    
+    https://user-images.githubusercontent.com/693098/180852903-24840ed9-e736-401c-bf63-ed61c34aecbc.mov
+
+    2. iteration & user test 2 (**1 hr**)
+        1. From the user: can't figure how to relate daily object and normal countable dice? 
+        -> 
+        * Add more meaningful visual and description (e.g. press to capture, swipe to roll)
+        * Add dice like material to indicate there are numbers on the side
 6. Documentation & wrap-up - **1 hr**
 
 ### Technical Architecture
