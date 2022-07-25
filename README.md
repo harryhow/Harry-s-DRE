@@ -9,6 +9,9 @@ My idea is to use AR technology to capture any daily objects around you, for exa
 
 Finally, user can roll this capture digital object onto the physical world, have fun and count the numbers. 
 
+![image](https://user-images.githubusercontent.com/693098/180865606-14d4edbb-d572-4a9a-89e0-3f96893f330a.png)
+
+
 ## Prototype Video
 
 [Demo 1](https://user-images.githubusercontent.com/693098/180850099-5c289d0b-a472-4a81-a542-2c84df9f4cd4.mov)
@@ -98,3 +101,5 @@ Finally, user can roll this capture digital object onto the physical world, have
 * Implement CoreML in Unity [https://medium.com/@kevinhuyskens/implementing-coreml-in-unity-e91bcf80a3c5](https://medium.com/@kevinhuyskens/implementing-coreml-in-unity-e91bcf80a3c5)
 
 * CoreML models Zoo for Segmentation [https://github.com/john-rocky/CoreML-Models#segmentation](https://github.com/john-rocky/CoreML-Models#segmentation)
+* Low poly reference https://www.freepik.com/premium-vector/conceptual-polygonal-tree-abstract-low-poly-illustration_7812767.htm
+
