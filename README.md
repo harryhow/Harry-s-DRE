@@ -46,9 +46,9 @@ Here's showcasing the AR capabilty and also UI, UX of our concept, despite the f
     2. Limitation: stricly time limit, need to jump on different projects at this moment
     2. Use Unity’s physical engine to make dice phsyics (e.g. Rigidbody, gravity, collision, etc.)
     3. Use Unity’s ARFoundation (ARKit) to build for iOS target with XCode toolchain
-    4. Integrate ML to understanding daily objects
+    4. Integrate ML to understand daily objects
 
-4. Make a idea decision, prioritation & env. preparation - **1 hr**
+4. Make a decision, prioritation & env. preparation - **1 hr**
     * Decide to do ' Turn daily object into any dice' idea 
     * Prioritation task:
     ``` demo creative process > user experience > material creation > calculation algorithm (points, swipe direction, physics..)  ```
@@ -57,18 +57,20 @@ Here's showcasing the AR capabilty and also UI, UX of our concept, despite the f
         1. ARKit player, XCode tool chian setup
         2. iOS X device
         
-5. Design & Develop
-    1. iteration & user test 1 (**2.5 hr**)
-    * AR Dev in Unity
-    * Get user feedback quickly by working prototype
+5. Design, Develop & Iteration
+    1. Iteration & user test 1 (**2.5 hr**)
+    * AR app dev with Unity ARFoundation 4.2
+    * Get user feedback quickly by working AR prototype
     
     https://user-images.githubusercontent.com/693098/180852903-24840ed9-e736-401c-bf63-ed61c34aecbc.mov
 
-    2. iteration & user test 2 (**1 hr**)
-        1. From the user: can't figure how to relate daily object and normal countable dice? 
+    2. Iteration & user test 2 (**1 hr**)
+        1. From the user's feedback: can't figure how to relate daily object and normal countable dice? 
         -> 
-        * Add more meaningful visual and description (e.g. press to capture, swipe to roll)
-        * Add dice like material to indicate there are numbers on the side
+          * Add more meaningful visual and description (e.g. press to capture, swipe to roll)
+          * Add dice like material to indicate there are numbers on the side
+          * Showcase low-poly idea by showing just photos 
+        2. Throwing physics experiement
 6. Documentation & wrap-up - **1 hr**
 
 # Technical Architecture
