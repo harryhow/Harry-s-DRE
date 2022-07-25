@@ -2,15 +2,14 @@
  ### Challenge to create dice rolling experience 
 
 
-# Concept & Prototype
+# Concept & Prototype Video
 ## Turn daily object into any dice.  
 
 My idea is to use AR technology to capture any daily objects around you, for example dog, cat or bike. After the targeted object captured and processed by machine learning techniques (e.g. segmentation by CoreML), our AR app then converts the captured object into low poly form as a similar form of multi-faceted dice, each face has an unique number assigned of course (just like the dice!).  
 
 Finally, user can roll this capture digital object onto the physical world, have fun and count the numbers. 
 
-## Protype Video
-// TBD: video 
+## Prototype Video
 
 [Demo 1](https://user-images.githubusercontent.com/693098/180850099-5c289d0b-a472-4a81-a542-2c84df9f4cd4.mov)
 
@@ -33,18 +32,25 @@ Finally, user can roll this capture digital object onto the physical world, have
         1. Not only moving real dice roll experience to the digital (virtual) world
         2. Create some imagination, e.g. not be able easily to experience in the physical (real) world
         3. Focus on creative & design process, technical architecture & integration, software management and quick prototype 
-    2. Ideas
+    2. Idea/ concept
         1. Roll the objects from real scenes, e.g. car, bike, bench in the city
-        2. Dr. Stranger use gesture to rotate the object he pointed
+        2. Dr. Stranger uses gesture to rotate the object he pointed
+        3. Use gesture to generate dice and throw to roll
+        4. Use AR/MR would be cool
 3. Technical feasibility & quick research - **1 hr**
-    1. Principle: not reinventing wheel
-    2. Use Unity’s physical engine (e.g. Rigidbody, gravity, collision, etc. )
-    3. Use Unity’s ARFoundation to build for iOS target
+    1. Principle: not reinventing wheel, leverage existing resource as much as possible
+    2. Limitation: stricly time limit, need to jump on different projects at this moment
+    2. Use Unity’s physical engine to make dice phsyics (e.g. Rigidbody, gravity, collision, etc.)
+    3. Use Unity’s ARFoundation (ARKit) to build for iOS target with XCode toolchain
     4. Integrate ML to understanding daily objects
-4. Make a decision, prioritation & dev preparation - **1 hr**
+
+4. Make a decision, prioritation & preparation - **1 hr**
+    1. Prioritation task:
+    ``` demo creative process > user experience > material creation > calculation algorithm (points, swipe direction, physics..)  ```
     1. Setup Unity project and related packages, assets
         1. ARKit player, XCode tool chian setup
-        2. 
+        2. iOS X device
+        
 5. Design & Develop
     1. iteration & user test 1 (**2.5 hr**)
     * AR Dev in Unity
@@ -59,7 +65,7 @@ Finally, user can roll this capture digital object onto the physical world, have
         * Add dice like material to indicate there are numbers on the side
 6. Documentation & wrap-up - **1 hr**
 
-### Technical Architecture
+# Technical Architecture
 
 // TBD: sw architecture drawing
 
@@ -67,7 +73,7 @@ Finally, user can roll this capture digital object onto the physical world, have
 
 
 
-### Design & Technical Reference
+# Design & Technical Reference
 
 * AR design material [https://www.figma.com/community/file/971376485724577565](https://www.figma.com/community/file/971376485724577565)
 
