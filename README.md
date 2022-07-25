@@ -48,7 +48,7 @@ Finally, user can roll this capture digital object onto the physical world, have
     * Decide to do ' Turn daily object into any dice' idea 
     * Prioritation task:
     ``` demo creative process > user experience > material creation > calculation algorithm (points, swipe direction, physics..)  ```
-    , e.g. Skip MLCore integratio, dice counts algorithm
+    , e.g. Skip Core ML integratio, dice counts algorithm
     * Setup Unity project and related packages, assets
         1. ARKit player, XCode tool chian setup
         2. iOS X device
@@ -85,7 +85,7 @@ Finally, user can roll this capture digital object onto the physical world, have
 
 * WebGL dice roll using ThreeJS [https://codesandbox.io/s/3d-dice-roll-using-three-js-9eb1b](https://codesandbox.io/s/3d-dice-roll-using-three-js-9eb1b)
 
-* Tealyatina’s 3D dice roller [http://www.teall.info/2014/01/online-3d-dice-roller.html](http://www.teall.info/2014/01/online-3d-dice-roller.html)
+* Tealyatina’s 3D dice roller [http://www.teall.info/2014/01/oCnline-3d-dice-roller.html](http://www.teall.info/2014/01/online-3d-dice-roller.html)
 
 * RPG Dice Roller [https://dice-roller.github.io/documentation/](https://dice-roller.github.io/documentation/)
 
