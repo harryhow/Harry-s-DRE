@@ -72,9 +72,12 @@ Finally, user can roll this capture digital object onto the physical world, have
 
 # Technical Architecture
 
-// TBD: sw architecture drawing
+Software block diagram 
+![image](https://user-images.githubusercontent.com/693098/180872225-e0cfd03b-709b-41cb-8c21-66c98224278f.png)
 
 
+Unity project setup
+![Screen Shot 2022-07-26 at 4 24 28 AM](https://user-images.githubusercontent.com/693098/180872064-ea007397-474c-4d55-8f11-46ecb84834ca.png)
 
 
 
