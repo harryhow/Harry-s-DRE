@@ -3,7 +3,7 @@
 
 
 # Concept & Prototype Video
-## Turn daily object into any dice.  
+## Turn daily object into any dice!
 
 My idea is to use AR technology to capture any daily objects around you, for example dog, cat or bike. After the targeted object captured and processed by machine learning techniques (e.g. segmentation by CoreML), our AR app then converts the captured object into low poly form as a similar form of multi-faceted dice, each face has an unique number assigned of course (just like the dice!).  
 
@@ -44,10 +44,12 @@ Finally, user can roll this capture digital object onto the physical world, have
     3. Use Unity’s ARFoundation (ARKit) to build for iOS target with XCode toolchain
     4. Integrate ML to understanding daily objects
 
-4. Make a decision, prioritation & preparation - **1 hr**
-    1. Prioritation task:
+4. Make a idea decision, prioritation & env. preparation - **1 hr**
+    * Decide to do ' Turn daily object into any dice' idea 
+    * Prioritation task:
     ``` demo creative process > user experience > material creation > calculation algorithm (points, swipe direction, physics..)  ```
-    1. Setup Unity project and related packages, assets
+    , e.g. Skip MLCore integratio, dice counts algorithm
+    * Setup Unity project and related packages, assets
         1. ARKit player, XCode tool chian setup
         2. iOS X device
         
