@@ -13,6 +13,7 @@ Finally, user can roll this capture digital object onto the physical world, have
 
 
 ## Prototype Video
+Here's showcasing the AR capabilty and also UI, UX of our concept, despite the functionality of physical object recognition/segmentation and low-pol converter, I can still test the overall experience and idea to the user. 
 
 [Demo 1](https://user-images.githubusercontent.com/693098/180850099-5c289d0b-a472-4a81-a542-2c84df9f4cd4.mov)
 
