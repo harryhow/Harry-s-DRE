@@ -73,16 +73,18 @@ Here's showcasing the AR capabilty and also UI, UX of our concept, despite the f
         2. Throwing physics experiement
 6. Documentation & wrap-up - **1 hr**
 
-# Technical Architecture
+# Technical Architecture & solution
 
 Software block diagram 
 ![image](https://user-images.githubusercontent.com/693098/180872225-e0cfd03b-709b-41cb-8c21-66c98224278f.png)
 
-
 Unity project setup
 ![Screen Shot 2022-07-26 at 4 24 28 AM](https://user-images.githubusercontent.com/693098/180872064-ea007397-474c-4d55-8f11-46ecb84834ca.png)
 
-
+# Challenge
+* Jumping on different projects/platform in the same time 
+* Prioritize what I can do to showcase my strength
+* Haven't had chance to work on CoreML yet
 
 # Design & Technical Reference
 
